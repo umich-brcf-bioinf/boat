@@ -9,7 +9,7 @@ We will follow this tutorial starting from the section labelled "Clone your repo
 
 ## Funny git comic
 
-https://imgs.xkcd.com/comics/git.png
+![alt text](https://imgs.xkcd.com/comics/git.png)
 
 ## Git example projects from our group:  
 
